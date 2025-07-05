@@ -19,7 +19,6 @@
 ###
 
 <div align="left">
-  ### I code with
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
