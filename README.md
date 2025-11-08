@@ -6,7 +6,7 @@
 
 <p align="left">
   I enjoy turning ideas into code and helping others learn along the way.  
-  Currently improving my skills in Fullstack development.
+  Currently improving my skills in REST APIS.
 </p>
 
 ---
@@ -49,8 +49,11 @@
 
 <h4>⚙️ Backend & Databases</h4>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  
 </p>
 
 <h4>🧰 Tools & Others</h4>
