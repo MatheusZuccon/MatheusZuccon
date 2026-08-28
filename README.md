@@ -69,13 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
 </p>
 
----
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusZuccon&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuccon&layout=compact&theme=github_dark" height="160"/>
+rc="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuccon&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
