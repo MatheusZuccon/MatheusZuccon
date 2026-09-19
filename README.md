@@ -66,8 +66,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
 </p>
-
-rc="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuccon&layout=compact&theme=github_dark" height="160"/>
-</p>
-
----
