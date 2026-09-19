@@ -1,27 +1,26 @@
-<h1 align="left">Hey there 👋 I'm Matheus Zuccon Buffon</h1>
+<h1 align="left">Hey there,  I'm Matheus Zuccon Buffon</h1>
 
 <p align="left">
-  🚀 <strong>Fullstack Developer</strong> | 💡 Passionate about learning and building impactful web applications
+   <strong>Fullstack Developer</strong> | Passionate about learning and building impactful web applications
 </p>
 
 <p align="left">
   I enjoy turning ideas into code and helping others learn along the way.  
-  Currently improving my skills in REST APIS.
+  Currently improving my skills in IA applied development. 
 </p>
 
 ---
 
-<h2 align="left">🧭 About me</h2>
+<h2 align="left"> About me</h2>
 
 <p align="left">
-📚 IT student at <strong>FAETERJ-Petrópolis</strong><br>
-💼 Web Developer Intern focused on fullstack solutions<br>
-💬 I love teaching, mentoring, and building side projects<br>
+  IT student at <strong>FAETERJ-Petrópolis</strong><br>
+  Web Developer focused on fullstack solutions<br>
 </p>
 
 ---
 
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left"> Connect with me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheuszuccon/" target="_blank">
@@ -39,7 +38,7 @@
 
 <h2 align="left">💻 I code with</h2>
 
-<h4>🎨 Frontend</h4>
+<h4> Frontend</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
@@ -49,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
 </p>
 
-<h4>⚙️ Backend & Databases</h4>
+<h4>  Backend & Databases</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
@@ -58,7 +57,7 @@
   
 </p>
 
-<h4>🧰 Tools & Others</h4>
+<h4> Tools & Others</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
@@ -73,7 +72,3 @@ rc="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuccon
 </p>
 
 ---
-
-<p align="center">
-  🌱 “Coding, learning, monitoring and a little bit more”
-</p>
